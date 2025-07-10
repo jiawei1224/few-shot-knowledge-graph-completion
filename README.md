@@ -1,6 +1,6 @@
 # Topological and Semantic Fusion for Few-Shot Knowledge Graph Completion
 
-### dataset
+### Dataset
 
 We adopt Nell and Wiki datasets to evaluate our model, TSF.
 The orginal datasets and pretrain embeddings are provided from [xiong's repo](https://github.com/xwhan/One-shot-Relational-Learning). 
