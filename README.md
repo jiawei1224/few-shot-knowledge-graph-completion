@@ -1,4 +1,4 @@
-# Topological and Semantic Fusion for Few-Shot Knowledge Graph Completion
+# Few-Shot Knowledge Graph Completion with Fusing Topological and Semantic Information
 
 ### Dataset
 
